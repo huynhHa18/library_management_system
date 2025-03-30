@@ -1,0 +1,3 @@
+printed book,title2,author2,action,1234567890123,available,,12,
+ebook,title3,author3,action,1234567890123,not for loan,,,epub
+printed book,title4,author4,action,1234567890123,available,,12,
